@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF224D8A-8116-4A77-A969-8FD2E11ADF92"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21B20048-7C5D-488A-8897-B58ADD6F284C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Go&#x308;stericilerDevam&#x131;(Pointers)/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "f(a, boyut)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "21B20048-7C5D-488A-8897-B58ADD6F284C - d6961ece54305988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "f(int*, int)"
+                  moduleName = "Go&#x308;stericilerDevam&#x131;(Pointers)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yunuspektas/Desktop/C++%20Temel/Go%CC%88stericilerDevam%C4%B1(Pointers)/Go%CC%88stericilerDevam%C4%B1(Pointers)/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "21B20048-7C5D-488A-8897-B58ADD6F284C - d6961ece54305988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "f(int*, int)"
+                  moduleName = "Go&#x308;stericilerDevam&#x131;(Pointers)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yunuspektas/Desktop/C++%20Temel/Go%CC%88stericilerDevam%C4%B1(Pointers)/Go%CC%88stericilerDevam%C4%B1(Pointers)/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
